@@ -11,7 +11,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "ethers": "^5.7.2"
-  },
-  "_comment" : "에러 나서 버전 5.7.2로 바꿈"
+    "ethers": "^6.13.5"
+  }
 }
