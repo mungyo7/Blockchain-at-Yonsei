@@ -1,0 +1,17 @@
+{
+  "name": "0.-ethererum-account-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  },
+  "_comment" : "에러 나서 버전 5.7.2로 바꿈"
+}
